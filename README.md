@@ -1,2 +1,2 @@
 # Discord-Bot-
-Bot helper Color Grading.
+Bot helper Color Grading and Images / Videos Converter.
