@@ -2,7 +2,6 @@ from typing import Optional
 from disnake.ext import commands
 import disnake
 import asyncio
-import aiohttp
 import os
 import pathlib
 from yt_dlp import YoutubeDL
